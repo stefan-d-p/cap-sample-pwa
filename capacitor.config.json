@@ -1,0 +1,8 @@
+{
+  "appId": "one.spatium.contactspwa",
+  "appName": "cap-sample-pwa",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

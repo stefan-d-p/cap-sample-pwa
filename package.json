@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@adobe/react-spectrum": "^3.34.1",
+    "@capacitor/core": "^5.7.0",
     "dexie": "^3.2.5",
     "dexie-react-hooks": "^1.1.7",
     "react": "^18.2.0",
@@ -19,6 +20,7 @@
     "react-hook-form": "^7.50.1"
   },
   "devDependencies": {
+    "@capacitor/cli": "^5.7.0",
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
     "@vite-pwa/assets-generator": "^0.2.4",
