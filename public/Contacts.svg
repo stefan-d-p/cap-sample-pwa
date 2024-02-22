@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Contacts.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.1228082"
+     inkscape:cx="240.9138"
+     inkscape:cy="269.41377"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#000080;stroke-width:1.05103"
+       id="rect1"
+       width="512"
+       height="512"
+       x="0"
+       y="0" /><g
+       style="fill:#e6e6e6"
+       id="g1"
+       transform="matrix(11.666667,0,0,11.666667,80.999995,86.833329)"><path
+         d="m 12.5,15 h 13 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -13 C 12.223,16 12,15.777 12,15.5 12,15.223 12.223,15 12.5,15 Z m 0,3 h 13 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -13 C 12.223,19 12,18.777 12,18.5 12,18.223 12.223,18 12.5,18 Z m 0,-6 h 13 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -13 C 12.223,13 12,12.777 12,12.5 12,12.223 12.223,12 12.5,12 Z m -8,-1 C 3.678,11 3,11.678 3,12.5 v 6 C 3,19.322 3.678,20 4.5,20 h 4 C 9.322,20 10,19.322 10,18.5 v -6 C 10,11.678 9.322,11 8.5,11 Z m 0,1 h 4 C 8.786,12 9,12.214 9,12.5 v 6 C 9,18.786 8.786,19 8.5,19 h -4 C 4.214,19 4,18.786 4,18.5 v -6 C 4,12.214 4.214,12 4.5,12 Z M 6.5,2 C 6.777,2 7,2.223 7,2.5 v 4 C 7,6.777 6.777,7 6.5,7 6.223,7 6,6.777 6,6.5 v -4 C 6,2.223 6.223,2 6.5,2 Z m 17,0 C 23.777,2 24,2.223 24,2.5 v 4 C 24,6.777 23.777,7 23.5,7 23.223,7 23,6.777 23,6.5 v -4 C 23,2.223 23.223,2 23.5,2 Z M 1.5,4 C 0.678,4 0,4.678 0,5.5 v 20 C 0,26.322 0.678,27 1.5,27 h 27 C 29.322,27 30,26.322 30,25.5 V 5.5 C 30,4.678 29.322,4 28.5,4 h -3 c -0.66,0 -0.664,1 0,1 h 3 C 28.786,5 29,5.214 29,5.5 v 20 C 29,25.786 28.786,26 28.5,26 H 1.5 C 1.214,26 1,25.786 1,25.5 V 5.5 C 1,5.214 1.214,5 1.5,5 h 3 c 0.67,0 0.654,-1 0,-1 z m 7,0 c -0.63,0 -0.683,1 0,1 h 13 c 0.66,0 0.66,-1 0,-1 z"
+         id="path1"
+         style="fill:#e6e6e6" /></g></g></svg>
