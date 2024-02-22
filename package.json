@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@adobe/react-spectrum": "^3.34.1",
+    "@capacitor/android": "^5.7.0",
     "@capacitor/core": "^5.7.0",
     "dexie": "^3.2.5",
     "dexie-react-hooks": "^1.1.7",

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cap-sample-pwa</string>
+    <string name="title_activity_main">cap-sample-pwa</string>
+    <string name="package_name">one.spatium.contactspwa</string>
+    <string name="custom_url_scheme">one.spatium.contactspwa</string>
+</resources>
